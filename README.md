@@ -8,9 +8,11 @@
   
 🌱  I’ve learned 
 
-   **Excel,Google sheets, Power BI, Mysql and Tableau** for Data Analysis — now exploring advanced analytics and cloud tools** 
+   **Excel,Google sheets, Power BI, Mysql and Tableau for Data Analysis — now exploring advanced analytics and cloud tools** 
   
-💞️ I’m looking to collaborate on data analysis projects, dashboard creation, and case study challenges.
+💞️ I’m looking to 
+
+   **collaborate on data analysis projects, dashboard creation, and case study challenges**.
   
 
 ✨ Fun fact: I find patterns in numbers like others find stories in books!
