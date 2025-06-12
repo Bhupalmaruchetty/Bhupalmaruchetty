@@ -1,6 +1,8 @@
 👋 Hi, I’m **@Bhupalmaruchetty** 
 
-👀 I’m interested in Data Analytics, Data Visualization and solving real-world business problems through data
+👀 I’m interested in 
+
+    Data Analytics, Data Visualization and solving real-world business problems through data
   
 🌱  I’ve learned 
 
