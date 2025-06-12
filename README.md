@@ -1,6 +1,6 @@
 👋 Hi, I’m **@Bhupalmaruchetty** 
 
-😄 Pronouns: He/Him  
+😄 Pronouns:**He/Him** 
 
 👀 I’m interested in 
 
