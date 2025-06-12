@@ -9,3 +9,5 @@
 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/bhupalmaruchetty) | **Email**: Bhupal.maru2022@gmail.com
 
 😄 Pronouns: He/Him  
+
+✨ Fun fact: I find patterns in numbers like others find stories in books!
