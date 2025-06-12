@@ -1,5 +1,7 @@
 👋 Hi, I’m **@Bhupalmaruchetty** 
 
+😄 Pronouns: He/Him  
+
 👀 I’m interested in 
 
     Data Analytics, Data Visualization and solving real-world business problems through data
@@ -10,8 +12,7 @@
   
 💞️ I’m looking to collaborate on data analysis projects, dashboard creation, and case study challenges.
   
-📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/bhupalmaruchetty) | **Email**: Bhupal.maru2022@gmail.com
-
-😄 Pronouns: He/Him  
 
 ✨ Fun fact: I find patterns in numbers like others find stories in books!
+
+📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/bhupalmaruchetty) | **Email**: Bhupal.maru2022@gmail.com
